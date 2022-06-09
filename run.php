@@ -6,7 +6,7 @@ require_once __DIR__.'/userAgent.php';
 require __DIR__ . '/smshub.php';
 
 //APIKEY SMSHUB
-$key = '';
+$key = '135085Uf0a3f07b15f4f505b3a0834dcb7bc550';
 
 if($key == null) {
     die('Masukan apikey di line 9 goblog!!');
